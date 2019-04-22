@@ -1,0 +1,35 @@
+body {
+    background-image: url("./images/spooky-forest.jpg");
+    background-size: cover;
+   
+}
+
+.head-text {
+    font-family: 'Metal Mania', cursive;
+    font-size: 80px;
+    
+}
+
+.home-card {
+    top: 10%;
+    background: rgba(19, 18, 18, 0.274);
+}
+
+.sign {
+    
+    opacity: 1;
+}
+
+.cat {
+    width: 200px;
+    height:auto;
+}
+
+.btn-text {
+    font-family: 'Metal Mania', cursive;
+}
+
+.article-title {
+    font-family: 'Metal Mania', cursive;
+    font-size: 20px;
+}
